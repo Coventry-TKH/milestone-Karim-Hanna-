@@ -1,0 +1,129 @@
+*{font-family: "Avenir Next LT Pro";
+}
+span{
+    font-size: 40px;
+      text-shadow: 3px 3px 13px; color: light rgb(91, 91, 91, 0.47);
+
+}
+.all{
+    width: 1240px;
+    margin: 0px;
+}
+
+table {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto
+}
+.sec-table {
+    text-align: center;
+  }
+  
+  .the-span {
+    padding-left: 20px
+  }
+  
+  td:not(.td) {
+    padding: 15px 30px
+  }
+  .logo{
+    padding: 15px 30px
+  }
+  
+  .one,
+  .two {
+    text-decoration: none;
+    color: DodgerBlue;
+    border: 2px solid DodgerBlue;
+    padding: 10px 15px;
+    margin-right: 10px
+  }
+  
+  .three {
+    text-decoration: none;
+    color: white;
+    /* border: 3px solid DodgerBlue ; */
+    background-color: DodgerBlue;
+    padding: 10px 15px;
+    /* float:left; */
+    margin-right: 10px
+  }
+  
+  .links {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px
+  
+  }
+  
+  .h1 {
+    background: linear-gradient(to left, cyan 0%, blue 100%);
+    padding: 10px 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+  }
+  
+  .first{
+    background-color: rgb(202, 254, 255);
+    padding-bottom: 60px
+  }
+  
+  .second{
+    background-color: rgba(254, 209, 235, 0.39);
+    padding-bottom: 30px
+  }
+  
+  .third{
+    background-color: rgba(236, 254, 208, 0.48)
+  }
+  
+  p{
+    margin-bottom: 50px;
+  }
+  
+  .h2 {
+    background: linear-gradient(135deg, #F36265 0%, #961276 100%);
+  }
+  
+  button{
+    border: 0px;
+    padding: 15px;
+    color: white;
+    background-color: orange;
+    font-size: 20px;
+  
+  }
+  
+  button:hover{
+    background-color: orangered;
+    cursor:pointer
+  }
+  
+  .h3{
+    background: linear-gradient(to left, #42e695 0%, #3bb2b8 100%);
+  }
+  
+  iframe{
+    background-color: grey;
+    padding: 15px;
+    border-radius: 15px;
+    display: block;
+    width: 500px;
+    margin: 0 auto
+  }
+  
+  .one:hover{
+    background-color: DodgerBlue;
+    color: white
+  }
+  
+  .two:hover{
+    background-color: DodgerBlue;
+    color: white
+  }
+  
+  .three:hover{
+    background-color: RoyalBlue;
+  }
