@@ -42,10 +42,8 @@ table {
   .three {
     text-decoration: none;
     color: white;
-    /* border: 3px solid DodgerBlue ; */
     background-color: DodgerBlue;
     padding: 10px 15px;
-    /* float:left; */
     margin-right: 10px
   }
   
